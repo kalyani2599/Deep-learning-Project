@@ -6,4 +6,5 @@ seaborn
 scikit-learn
 streamlit
 ipykernel
+keras
 
